@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-    background-image: url("../IMAGES/bgimage_opt.jpg");
+    background-image: url("bgimage_opt.jpg");
     background-size: cover;
     font-family: Aisha Latin;
     font-size: 25px;
